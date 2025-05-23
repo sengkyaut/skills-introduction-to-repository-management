@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sengkyaut
+/src/backend/database.py      @sengkyaut
+/src/backend/routers/auth.py  @sengkyaut
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sengkyaut
